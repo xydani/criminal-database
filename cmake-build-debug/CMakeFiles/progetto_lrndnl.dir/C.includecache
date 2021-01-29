@@ -16,15 +16,15 @@ C:/Users/danny/Desktop/pr1lab/progetto_lrndnl/funzioniControllo.h
 recordSoggetto.h
 C:/Users/danny/Desktop/pr1lab/progetto_lrndnl/recordSoggetto.h
 
-C:/Users/danny/Desktop/pr1lab/progetto_lrndnl/generazioneCasuale.c
-generazioneCasuale.h
-C:/Users/danny/Desktop/pr1lab/progetto_lrndnl/generazioneCasuale.h
-
 C:/Users/danny/Desktop/pr1lab/progetto_lrndnl/generazioneCasuale.h
 recordSoggetto.h
 C:/Users/danny/Desktop/pr1lab/progetto_lrndnl/recordSoggetto.h
 funzioniControllo.h
 C:/Users/danny/Desktop/pr1lab/progetto_lrndnl/funzioniControllo.h
+
+C:/Users/danny/Desktop/pr1lab/progetto_lrndnl/inserimentoRecord.c
+inserimentoRecord.h
+C:/Users/danny/Desktop/pr1lab/progetto_lrndnl/inserimentoRecord.h
 
 C:/Users/danny/Desktop/pr1lab/progetto_lrndnl/inserimentoRecord.h
 recordSoggetto.h
@@ -33,6 +33,10 @@ funzioniControllo.h
 C:/Users/danny/Desktop/pr1lab/progetto_lrndnl/funzioniControllo.h
 
 C:/Users/danny/Desktop/pr1lab/progetto_lrndnl/main.c
+raccoltaLibrerie.h
+C:/Users/danny/Desktop/pr1lab/progetto_lrndnl/raccoltaLibrerie.h
+
+C:/Users/danny/Desktop/pr1lab/progetto_lrndnl/raccoltaLibrerie.c
 raccoltaLibrerie.h
 C:/Users/danny/Desktop/pr1lab/progetto_lrndnl/raccoltaLibrerie.h
 

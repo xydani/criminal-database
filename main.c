@@ -1,8 +1,6 @@
 #include "raccoltaLibrerie.h"
 
-
 //MODIFICARE CONFRONTA RECORD DEVE RESTITUIRE UN INT
-
 
 int main() {
 
