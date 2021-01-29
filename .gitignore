@@ -52,3 +52,5 @@ Mkfile.old
 dkms.conf
 .idea/
 /cmake-build-debug/
+cmake-build-debug/CMakeFiles/progetto_lrndnl.dir/C.includecache
+cmake-build-debug/Testing/Temporary/LastTest.log
