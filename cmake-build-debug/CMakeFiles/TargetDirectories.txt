@@ -1,0 +1,3 @@
+C:/Users/danny/Desktop/pr1lab/progetto_lrndnl/cmake-build-debug/CMakeFiles/progetto_lrndnl.dir
+C:/Users/danny/Desktop/pr1lab/progetto_lrndnl/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/danny/Desktop/pr1lab/progetto_lrndnl/cmake-build-debug/CMakeFiles/rebuild_cache.dir

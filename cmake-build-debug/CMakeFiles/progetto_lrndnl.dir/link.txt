@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\progetto_lrndnl.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\progetto_lrndnl.dir/objects.a @CMakeFiles\progetto_lrndnl.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\progetto_lrndnl.dir/objects.a -Wl,--no-whole-archive  -o progetto_lrndnl.exe -Wl,--out-implib,libprogetto_lrndnl.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\progetto_lrndnl.dir\linklibs.rsp
