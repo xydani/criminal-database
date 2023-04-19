@@ -1,4 +1,4 @@
-# Criminal Database
+# Database Criminali
 
-First C Project, first year of Bachelor's Degree Computer Science, Università degli Studi di Cagliari.
+Progetto per il corso di Programmazione 1 del Corso di Laurea in Informatica dell'Università degli Studi di Cagliari.
  
